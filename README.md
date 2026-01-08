@@ -1,3 +1,5 @@
-This was the first website I made. It is based on my favorite manga, Pandora Hearts. 
-It is not completely accurate, but I enjoyed working with the CSS animations.
+Thanks for visiting my website repository!
+This was the first website I made. This is not affiliated with the actual Pandora Hearts franchise. (There is missing information)
+
+I enjoyed working with the CSS animations + snap scroll.
 https://julyc25.github.io/pandoraheartswebsite/
